@@ -1,2 +1,2 @@
 # BACED
-Blazor + Asp.Net Core + CQRS + EntityFramework Core + Driven Domain Design
+Blazor + Asp.Net Core + CQRS + Event Sourcing + Driven Domain Design
